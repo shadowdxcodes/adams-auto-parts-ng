@@ -1,0 +1,58 @@
+.navbar{
+    background-color: #0a2342;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+}
+.nav-link{
+    transition: 0.3s;
+}
+.nav-link:hover{
+    color: #ffc107 !important;
+}
+.ada{
+    background-color: #f8f9fa;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+}
+.ada h1{
+    color: #0a2342;
+}
+.ada .lead{
+    color: #555;
+}
+.card{
+    border-radius: 15px;
+}
+.form-select{
+    padding: 12px;
+}
+.btn-danger{
+    font-weight: bold;
+}
+.card img{
+    height: 220px;
+    object-fit: cover;
+}
+.card{
+    transition: 3s;
+}
+.card:hover{
+    transform: translateY(-8px);
+}
+.card-title{
+    font-weight: 600;
+}
+.card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0) !important;
+}
+.display-4{
+    transition: 3s;
+}
+.card:hover{
+    transform: scale(1.15);
+}
+.nn{
+    height: 50px;
+}
