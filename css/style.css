@@ -119,10 +119,10 @@
         height: 45px;
     }
     .carousel-item{
-        height: 70vh;
+        height: 55vh;
     }
-    .carousel-item img{
-        height: 70vh;
+    .carousel-item immg{
+        height: 55vh;
         object-fit: cover;
     }
 }
